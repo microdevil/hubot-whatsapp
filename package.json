@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/jannickfahlbusch/hubot-whatsapp#readme",
     "dependencies": {
-        "whatsapi": "^1.3.3"
+        "whatsapi": "git+https://github.com/puckipedia/node-whatsapi.git"
     },
     "peerDependencies": {
         "hubot": ">=2.0"
